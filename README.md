@@ -1,6 +1,5 @@
 # An-Automated-Pet-Detector
 This automated Pet detector is designed for pets (cats and dogs) and their owners 
-# An Automated Pet Detector
 Basic guide to set up a camera with Arduino Yún shield. As well as the guide to build an avoid car with a motor shield.
 <img src="images/cover1.jpg" alt="finished w00t" width="400">
 <img src="images/cover2.jpg" alt="finished w00t" width="400">
@@ -46,22 +45,22 @@ Basic guide to set up a camera with Arduino Yún shield. As well as the guide to
 <h3>1. Set up the Ardunio Yun</h3>
 <p>Before starting the project, we need to set up the Ardunio Yun.There are several steps to do this:</p>
 
-	<p>(a).Connect to the Ardunio Yun over Wifi. Plug or power up the Yun with the computer. Wait about a few minutes till you see the white USB LED turn on. Then, you can check the available WiFi Networks for a new one called something like: ARDUINO-YUN90XXXXXX. Select this WiFi.</p>
-	<img src="images/setyun1.jpg" alt="design symbols" width="400">
+<p>(a).Connect to the Ardunio Yun over Wifi. Plug or power up the Yun with the computer. Wait about a few minutes till you see the white USB LED turn on. Then, you can check the available WiFi Networks for a new one called something like: ARDUINO-YUN90XXXXXX. Select this WiFi.</p>
+<img src="images/setyun1.jpg" alt="design symbols" width="400">
 
-	<p>(b).Open a browser and visit 192.168.240.1. If this is your first time setting up yun, the default password is "arduino".  So, just enter "arduino" and click the Log In button.</p>
-	<img src="images/setyun2.jpg" alt="design symbols" width="400">
+<p>(b).Open a browser and visit 192.168.240.1. If this is your first time setting up yun, the default password is "arduino".  So, just enter "arduino" and click the Log In button.</p>
+<img src="images/setyun2.jpg" alt="design symbols" width="400">
 
-	<p>(c).Connect your Arduino WiFi. Once your Arduino Yun has logged in, click the Configure Button in the top right. Here you can:</p>
-		<ol>
-			<li>Change the Arduino Yun’ name if you want.</li>
-			<li>Change the password (the default password is "arduino").</li>
-			<li>Connect your Arduino yun to a WiFi network.</li>
-		</ol>
-	<img src="images/setyun3.jpg" alt="design symbols" width="400">
+<p>(c).Connect your Arduino WiFi. Once your Arduino Yun has logged in, click the Configure Button in the top right. Here you can:</p>
+	<ol>
+		<li>Change the Arduino Yun’ name if you want.</li>
+		<li>Change the password (the default password is "arduino").</li>
+		<li>Connect your Arduino yun to a WiFi network.</li>
+	</ol>
+<img src="images/setyun3.jpg" alt="design symbols" width="400">
 
-	<p>(d).After you press the Configure & Restart button, the shield will reset itself and join the specified network.</p>
-	<img src="images/setyun4.jpg" alt="design symbols" width="400">
+<p>(d).After you press the Configure & Restart button, the shield will reset itself and join the specified network.</p>
+<img src="images/setyun4.jpg" alt="design symbols" width="400">
 
 <p><b>If you still have some questions about setting up the yun, you can go to YOUTUBE
 To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
