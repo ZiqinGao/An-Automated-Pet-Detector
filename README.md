@@ -107,8 +107,8 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>End of this stape your camera should be set up and take pictures through SSH.</h3>
 <p>I am temporarily stoped here for some reason. However, I will keep going and continue to update the project that it developed to an web camera. if you are interested for my project, please keep tracking.</p>
-	<img src="images/testyun5.jpg" alt="how it looks like" width="200">
-	<img src="images/testyun6.jpg" alt="how it looks like" width="200">
+<img src="images/testyun5.jpg" alt="how it looks like" width="200">
+<img src="images/testyun6.jpg" alt="how it looks like" width="200">
 
 
 
@@ -120,8 +120,8 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 	<img src="images/car1.jpg" alt="design symbols" width="400">
 
 <h3>2.Set the Servo and sensor on the front of the car</h3>
-	<img src="images/car2.jpg" alt="how it looks like" width="300">
-	<img src="images/car3.jpg" alt="how it looks like" width="300">
+<img src="images/car2.jpg" alt="how it looks like" width="300">
+<img src="images/car3.jpg" alt="how it looks like" width="300">
 
 <h3>3.Connect a motor with wheels</h3>
 	<img src="images/car4.jpg" alt="how it looks like" width="200">
