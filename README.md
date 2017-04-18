@@ -102,13 +102,13 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 <p><b>Conact yor camera with yun, then enter the code:</b></p>
 <p>cd /mnt/sda1</p>
 <p>fswebcam pic1.jpg -r 1280x720</p>
-	<img src="images/testyun4.jpg" alt="design symbols" width="400">
+<img src="images/testyun4.jpg" alt="design symbols" width="400">
 
 
 <h3>End of this stape your camera should be set up and take pictures through SSH.</h3>
 <p>I am temporarily stoped here for some reason. However, I will keep going and continue to update the project that it developed to an web camera. if you are interested for my project, please keep tracking.</p>
-<img src="images/testyun5.jpg" alt="how it looks like" width="200">
-<img src="images/testyun6.jpg" alt="how it looks like" width="200">
+<img src="images/testyun5.jpg" alt="how it looks like" width="400">
+<img src="images/testyun6.jpg" alt="how it looks like" width="400">
 
 
 
@@ -117,24 +117,24 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 <h1>PART 2</h1>
 
 <h3>1.Assemble the basic parts of the car</h3>
-	<img src="images/car1.jpg" alt="design symbols" width="400">
+<img src="images/car1.jpg" alt="design symbols" width="400">
 
 <h3>2.Set the Servo and sensor on the front of the car</h3>
 <img src="images/car2.jpg" alt="how it looks like" width="300">
 <img src="images/car3.jpg" alt="how it looks like" width="300">
 
 <h3>3.Connect a motor with wheels</h3>
-	<img src="images/car4.jpg" alt="how it looks like" width="200">
-	<img src="images/car5.jpg" alt="how it looks like" width="200">
+<img src="images/car4.jpg" alt="how it looks like" width="400">
+<img src="images/car5.jpg" alt="how it looks like" width="400">
 
 <h3>4. Connections</h3>
-	<p><b>Connect all the stuff together.</b></p>
-	<img src="images/car6.jpg" alt="how it looks like" width="800">
-	<img src="images/car7.jpg" alt="v" width="800">
+<p><b>Connect all the stuff together.</b></p>
+<img src="images/car6.jpg" alt="how it looks like" width="800">
+<img src="images/car7.jpg" alt="v" width="800">
 
 <h3>5. Inset Code</h3>
-	<p><b>Please download and inset the code in code file</b></p>
-	<p>The car will detect the front and left and right distance in 1.5 seconds, make a comparison, and then make a decision to move forward, turn right, turn left or back. </p>
+<p><b>Please download and inset the code in code file</b></p>
+<p>The car will detect the front and left and right distance in 1.5 seconds, make a comparison, and then make a decision to move forward, turn right, turn left or back. </p>
 
 
 <h1>PART 3</h1>
