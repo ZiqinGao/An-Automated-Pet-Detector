@@ -1,7 +1,7 @@
 # An-Automated-Pet-Detector
 This automated Pet detector is designed for pets (cats and dogs) and their owners 
 Basic guide to set up a camera with Arduino Yún shield. As well as the guide to build an avoid car with a motor shield.
-<img src="images/cover1.jpg" alt="finished w00t" width="40">
+<img src="images/cover1.jpg" alt="finished w00t" width="400">
 <img src="images/cover2.jpg" alt="finished w00t" width="410">
 <img src="images/cover3.jpg" alt="finished w00t" width="800">
 <h1>PART 1</h1>
