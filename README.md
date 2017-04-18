@@ -67,8 +67,8 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>2. Do some tests for the Arduino yun, make sure it works. </h3>
 <p>You can use the “ConsoleRead” which can be found in the “Bridge” folder. It on the Arduino IDE, if you don't have this file, you need to install and set up it first.</p>
-	<img src="images/testyun1.jpg" alt="how it looks like" width="200">
-	<img src="images/testyun2.jpg" alt="how it looks like" width="200">
+<img src="images/testyun.jpg" alt="how it looks like" width="400">
+
 
 <h3>3. Set up SSH. </h3>
 <p>https://support.suso.com/supki/SSH_Tutorial_for_Windows</p>
@@ -107,8 +107,7 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>End of this stape your camera should be set up and take pictures through SSH.</h3>
 <p>I am temporarily stoped here for some reason. However, I will keep going and continue to update the project that it developed to an web camera. if you are interested for my project, please keep tracking.</p>
-<img src="images/testyun5.jpg" alt="how it looks like" width="400">
-<img src="images/testyun6.jpg" alt="how it looks like" width="400">
+<img src="images/testyun7.jpg" alt="how it looks like" width="800">
 
 
 
