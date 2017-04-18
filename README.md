@@ -65,7 +65,7 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>2. Do some tests for the Arduino yun, make sure it works. </h3>
 <p>You can use the “ConsoleRead” which can be found in the “Bridge” folder. It on the Arduino IDE, if you don't have this file, you need to install and set up it first.</p>
-<img src="images/testyun.jpg" alt="how it looks like" width="400">
+<img src="images/testyun.jpg" alt="how it looks like" width="800">
 
 
 <h3>3. Set up SSH. </h3>
@@ -74,7 +74,7 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 
 <h3>4. Use SSH to root Yun. Local </h3>
-	<img src="images/testyun3.jpg" alt="design symbols" width="400">
+<img src="images/testyun3.jpg" alt="design symbols" width="600">
 
 <h3>5. Update and install packages.</h3>
 <p><b>Enter the code:</b></p>
@@ -100,7 +100,7 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 <p><b>Conact yor camera with yun, then enter the code:</b></p>
 <p>cd /mnt/sda1</p>
 <p>fswebcam pic1.jpg -r 1280x720</p>
-<img src="images/testyun4.jpg" alt="design symbols" width="400">
+<img src="images/testyun4.jpg" alt="design symbols" width="600">
 
 
 <h3>End of this stape your camera should be set up and take pictures through SSH.</h3>
@@ -117,8 +117,8 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 <img src="images/car1.jpg" alt="design symbols" width="400">
 
 <h3>2.Set the Servo and sensor on the front of the car</h3>
-<img src="images/car2.jpg" alt="how it looks like" width="300">
-<img src="images/car3.jpg" alt="how it looks like" width="300">
+<img src="images/car2.jpg" alt="how it looks like" width="400">
+<img src="images/car3.jpg" alt="how it looks like" width="400">
 
 <h3>3.Connect a motor with wheels</h3>
 <img src="images/car4.jpg" alt="how it looks like" width="400">
