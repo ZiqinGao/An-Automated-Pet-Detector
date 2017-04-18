@@ -13,9 +13,7 @@ Basic guide to set up a camera with Arduino Yún shield. As well as the guide to
 
 <p>It is good to note that there is a different set up between “Arduino yun” and “dragino Arduino yun”. Thanks to my professor for lending me his Arduino yun, so that I have the opportunity to study it.</p>
 
-  <img src="images/yun1.jpg" alt="sketch to show how it works" width="400">
-  <img src="images/yun2.jpg" alt="sketch to show how it works" width="400">
-  <img src="images/yun3.jpg" alt="sketch to show how it works" width="400">
+  <img src="images/cover.jpg" alt="sketch to show how it works" width="800">
 
 
 <h2>Tutorial</h2>
