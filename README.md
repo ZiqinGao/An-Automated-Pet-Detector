@@ -13,9 +13,9 @@ Basic guide to set up a camera with Arduino Yún shield. As well as the guide to
 
 <p>It is good to note that there is a different set up between “Arduino yun” and “dragino Arduino yun”. Thanks to my professor for lending me his Arduino yun, so that I have the opportunity to study it.</p>
 
-<img src="images/yun1.jpg" alt="design symbols" width="800">
-<img src="images/yun2.jpg" alt="design symbols" width="400">
-<img src="images/yun3.jpg" alt="design symbols" width="400">
+<img src="images/yun1.jpg" alt="how it looks like" width="400">
+<img src="images/yun2.jpg" alt="how it looks like" width="200">
+<img src="images/yun3.jpg" alt="how it looks like" width="200">
 
 
 <h2>Tutorial</h2>
@@ -46,10 +46,10 @@ Basic guide to set up a camera with Arduino Yún shield. As well as the guide to
 <p>Before starting the project, we need to set up the Ardunio Yun.There are several steps to do this:</p>
 
 <p>(a).Connect to the Ardunio Yun over Wifi. Plug or power up the Yun with the computer. Wait about a few minutes till you see the white USB LED turn on. Then, you can check the available WiFi Networks for a new one called something like: ARDUINO-YUN90XXXXXX. Select this WiFi.</p>
-<img src="images/setyun1.jpg" alt="design symbols" width="400">
+<img src="images/setyun1.jpg" alt="how it looks like" width="400">
 
 <p>(b).Open a browser and visit 192.168.240.1. If this is your first time setting up yun, the default password is "arduino".  So, just enter "arduino" and click the Log In button.</p>
-<img src="images/setyun2.jpg" alt="design symbols" width="400">
+<img src="images/setyun2.jpg" alt="how it looks like" width="400">
 
 <p>(c).Connect your Arduino WiFi. Once your Arduino Yun has logged in, click the Configure Button in the top right. Here you can:</p>
 	<ol>
@@ -57,18 +57,18 @@ Basic guide to set up a camera with Arduino Yún shield. As well as the guide to
 		<li>Change the password (the default password is "arduino").</li>
 		<li>Connect your Arduino yun to a WiFi network.</li>
 	</ol>
-<img src="images/setyun3.jpg" alt="design symbols" width="400">
+<img src="images/setyun3.jpg" alt="how it looks like" width="400">
 
 <p>(d).After you press the Configure & Restart button, the shield will reset itself and join the specified network.</p>
-<img src="images/setyun4.jpg" alt="design symbols" width="400">
+<img src="images/setyun4.jpg" alt="how it looks like" width="400">
 
 <p><b>If you still have some questions about setting up the yun, you can go to YOUTUBE
 To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>2. Do some tests for the Arduino yun, make sure it works. </h3>
 <p>You can use the “ConsoleRead” which can be found in the “Bridge” folder. It on the Arduino IDE, if you don't have this file, you need to install and set up it first.</p>
-	<img src="images/testyun1.jpg" alt="design symbols" width="200">
-	<img src="images/testyun2.jpg" alt="design symbols" width="200">
+	<img src="images/testyun1.jpg" alt="how it looks like" width="200">
+	<img src="images/testyun2.jpg" alt="how it looks like" width="200">
 
 <h3>3. Set up SSH. </h3>
 <p>https://support.suso.com/supki/SSH_Tutorial_for_Windows</p>
@@ -107,8 +107,8 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 
 <h3>End of this stape your camera should be set up and take pictures through SSH.</h3>
 <p>I am temporarily stoped here for some reason. However, I will keep going and continue to update the project that it developed to an web camera. if you are interested for my project, please keep tracking.</p>
-	<img src="images/testyun5.jpg" alt="design symbols" width="200">
-	<img src="images/testyun6.jpg" alt="design symbols" width="200">
+	<img src="images/testyun5.jpg" alt="how it looks like" width="200">
+	<img src="images/testyun6.jpg" alt="how it looks like" width="200">
 
 
 
@@ -120,17 +120,17 @@ To view the tutorial video: https://www.youtube.com/watch?v=9-hPhWHWnvs</b></p>
 	<img src="images/car1.jpg" alt="design symbols" width="400">
 
 <h3>2.Set the Servo and sensor on the front of the car</h3>
-	<img src="images/car2.jpg" alt="design symbols" width="200">
-	<img src="images/car3.jpg" alt="design symbols" width="200">
+	<img src="images/car2.jpg" alt="how it looks like" width="300">
+	<img src="images/car3.jpg" alt="how it looks like" width="300">
 
 <h3>3.Connect a motor with wheels</h3>
-	<img src="images/car4.jpg" alt="design symbols" width="200">
-	<img src="images/car5.jpg" alt="design symbols" width="200">
+	<img src="images/car4.jpg" alt="how it looks like" width="200">
+	<img src="images/car5.jpg" alt="how it looks like" width="200">
 
 <h3>4. Connections</h3>
 	<p><b>Connect all the stuff together.</b></p>
-	<img src="images/car6.jpg" alt="design symbols" width="800">
-	<img src="images/car7.jpg" alt="design symbols" width="800">
+	<img src="images/car6.jpg" alt="how it looks like" width="800">
+	<img src="images/car7.jpg" alt="v" width="800">
 
 <h3>5. Inset Code</h3>
 	<p><b>Please download and inset the code in code file</b></p>
